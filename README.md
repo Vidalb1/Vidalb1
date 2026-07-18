@@ -1,4 +1,4 @@
-## Hi there 👋
+## My name is Vidal Bickersteth, A UMBC CS Junior (AI/ML Track), CWIT Cyber Scholar, Break Through Tech AI Fellow, aiming at Software Engineering and AI/ML. My key skills are Python, C++, AI, ML concepts, Python Dataframe Packages, Decision Trees, KNN Neighbors, Logistic and Linear Regresssion, and Neural Networks. I am currently completing a capstone ML project at my Fellowship program wehre I used Decision Trees and Neural Networks to solve my ML probelm of predicting my binary classification label - Income_Binary.
 
 <!--
 **Vidalb1/Vidalb1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
