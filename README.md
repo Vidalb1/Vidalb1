@@ -16,7 +16,15 @@ Target Roles: Software Engineering | AI/ML | Data Science
 
 🚀 Current Featured Project
 
-  ML Capstone (Break Through Tech AI): Building and benchmarking binary classification models (Decision Trees & Neural Networks) to predict individual income thresholds (Income_Binary).
+  ML Capstone (Break Through Tech AI): Building and benchmarking binary classification models (Decision Trees & Neural Networks) to predict individual income thresholds (Income_Binary), GitHub: https://github.com/Vidalb1/BreakThrough-Tech-Capstone-
 
 Excited to showcase my machine learning and software engineering projects through the Break Through Tech AI Program!
+
+Additional Projects 
+
+Logistic Regression Lab (Break Through Tech), GitHub: https://github.com/Vidalb1/Logistic-Regression-Analysis
+
+Runscape Craft, GitHub: https://github.com/Vidalb1/runescape-craft
+
+AI-Academy Website (CodePath), GitHub: https://github.com/Vidalb1/Mock-AI-Academy-Website
 
