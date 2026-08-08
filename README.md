@@ -45,8 +45,8 @@ Deepening my machine learning fundamentals through the Break Through Tech AI Pro
 ## 📌 Other Projects
  
 - **[Logistic Regression From Scratch](https://github.com/Vidalb1/Logistic-Regression-Analysis)** — Implemented logistic regression from scratch with Newton's method, validated against scikit-learn, and benchmarked ~2x faster training.
-- **[BookTree: NLP Text Indexing Engine](https://github.com/Vidalb1/book-tree)** *(if applicable — add link)* — Splay tree of AVL word trees in C++ for fast, balanced text indexing; 100% leak-free under Valgrind.
-- **[Runescape Craft](https://github.com/Vidalb1/runescape-craft)** — *(add a one-line description of what this project does)*
+- **[BookTree: NLP Text Indexing Engine](https://github.com/Vidalb1/book-tree)** — Splay tree of AVL word trees in C++ for fast, balanced text indexing; 100% leak-free under Valgrind.
+- **[Runescape Craft](https://github.com/Vidalb1/runescape-craft)** — An RPG-style game that allows players to create item, move areas, and store their inventory.
 - **[Mock AI Academy Website](https://github.com/Vidalb1/Mock-AI-Academy-Website)** — Full-featured event website with registration forms and a curated library of AI learning resources.
 ## 📊 GitHub Stats
  
