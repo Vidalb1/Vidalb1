@@ -50,8 +50,7 @@ Deepening my machine learning fundamentals through the Break Through Tech AI Pro
 - **[Mock AI Academy Website](https://github.com/Vidalb1/Mock-AI-Academy-Website)** — Full-featured event website with registration forms and a curated library of AI learning resources.
 ## 📊 GitHub Stats
  
-[![Vidal's GitHub stats]https://github-readme-stats.vercel.app/api?username=Vidalb1)](https://github.com/anuraghazra/github-readme-stats)
-)
+[![Vidal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vidalb1)](https://github.com/anuraghazra/github-readme-stats)
  
 ## 📫 How to Reach Me
  
