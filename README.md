@@ -5,9 +5,9 @@ CS Junior @ UMBC (AI/ML Track) · CWIT Cyber Scholar · Break Through Tech AI Fe
 </p>
 ## 🎯 About Me
  
-I'm exploring the intersection of **Software Engineering and AI/ML** — I like building systems that don't just model data well, but are also engineered to actually ship and scale. I'm actively growing my technical and leadership skills as a **Break Through Tech AI Fellow**, and I'm open to Software Engineering, AI/ML, and Data Science/Analysis roles for my next internship or full-time opportunity.
+I'm exploring the intersection of **Software Engineering and AI/ML**. I like building systems that don't just model data well, but are also engineered to actually ship and scale. I'm actively growing my technical and leadership skills as a **Break Through Tech AI Fellow**, and I'm open to Software Engineering, AI/ML, and Data Science/Analysis roles for my next internship or full-time opportunity.
  
-Outside the classroom, I lead as a **Resident Assistant** at UMBC, supporting a 60+ student community — a role that's taught me as much about communication and reliability as any codebase has.
+Outside the classroom, I lead as a **Resident Assistant** at UMBC, supporting a 60+ student community, a role that's taught me as much about communication and reliability as any codebase has.
  
 ## 🚀 Featured Project: ML Capstone — Income Eligibility Classifier
  
@@ -15,7 +15,7 @@ Outside the classroom, I lead as a **Resident Assistant** at UMBC, supporting a 
  
 **Tools:** Python, Pandas, NumPy, Scikit-learn, TensorFlow/Keras, Seaborn
  
-**Result:** Decision Tree reached 80.98% accuracy (0.615 F1); Neural Network reached 83.45% accuracy (0.624 F1). Recommended the Decision Tree for deployment — despite the small accuracy tradeoff — for its interpretability with non-technical stakeholders.
+**Result:** Decision Tree reached 80.98% accuracy (0.615 F1); Neural Network reached 83.45% accuracy (0.624 F1). Recommended the Decision Tree for deployment, despite the small accuracy tradeoff, for its interpretability with non-technical stakeholders.
  
 🔗 [Full project & README](https://github.com/Vidalb1/BreakThrough-Tech-Capstone-)
  
