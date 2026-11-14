@@ -40,7 +40,7 @@ Outside the classroom, I lead as a **Resident Assistant** at UMBC, supporting a 
  
 ## 📚 Currently Learning / Working On
  
-Deepening my machine learning fundamentals through the Break Through Tech AI Program's AI Studio phase, where I'll be collaborating with industry partners to architect and deploy production-ready AI/ML solutions. Also sharpening my software engineering foundations (data structures, OOP, memory management) to bridge the gap between "a model that works" and "a system that ships."
+Deepening my machine learning fundamentals through the Break Through Tech AI Program's AI Studio phase, where I am  collaborating with Microsoft to predict whether GitHub repositories are strong or poor based on their trust signals such as Forks, Contributors, Organizations, and age. I am tasked with computing a logistic regression model to be trained on over 240+ GitHub repos and the model performed 94% precision, 94% recall, and 94% F1-Score at correctly identififying good and bad repos. Preparing to finalsize my findings and present to Microsoft advisors. Also sharpening my software engineering foundations (data structures, OOP, memory management) to bridge the gap between "a model that works" and "a system that ships."
  
 ## 📌 Other Projects
  
