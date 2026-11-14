@@ -12,7 +12,7 @@ Outside the classroom, I lead as a **Resident Assistant** at UMBC, supporting a 
 ## 🚀 AI Fall Studio Project - Microsoft 3B: GitHub Repo Trust Signals
 Collaborating with Microsoft to predict whether GitHub repositories are strong or poor based on their trust signals such as Forks, Contributors, Organizations, and age. I am tasked with computing a logistic regression model to be trained on over 240+ GitHub repos and the model performed 94% precision, 94% recall, and 94% F1-Score at correctly identifying good and bad repos. I conducted train test split (80/20) and the model performed well at identifying good and bad repos.
 
-🔗 [Full project & README]([https://github.com/Vidalb1/BreakThrough-Tech-Capstone-](https://github.com/Break-Through-Tech/Microsoft-3B-github-repo-trust-signals))
+🔗 [Full project & README](https://github.com/Break-Through-Tech/Microsoft-3B-github-repo-trust-signals)
 
  
 ## 🚀 Featured Project: ML Capstone — Income Eligibility Classifier
