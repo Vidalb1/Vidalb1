@@ -3,7 +3,7 @@
 <p align="center">
 CS Junior @ UMBC (AI/ML Track) · CWIT Cyber Scholar · Break Through Tech AI Fellow
 </p>
-## 🎯 About Me
+🎯 About Me
  
 I'm exploring the intersection of **Software Engineering and AI/ML**. I like building systems that don't just model data well, but are also engineered to actually ship and scale. I'm actively growing my technical and leadership skills as a **Break Through Tech AI Fellow**, and I'm open to Software Engineering, AI/ML, and Data Science/Analysis roles for my next internship or full-time opportunity.
  
