@@ -42,7 +42,7 @@ Collaborating with Microsoft to predict whether GitHub repositories are strong o
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
  
-**ML Concepts:** Decision Trees · K-Nearest Neighbors · Logistic/Linear Regression · Neural Networks · AVL & Splay Trees
+**ML Concepts:** Decision Trees · K-Nearest Neighbors · Logistic/Linear Regression · Neural Networks · LLM · RAG · AI Agents 
 
 ## 📚 Currently Learning / Working On
  
