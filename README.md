@@ -8,6 +8,12 @@ CS Junior @ UMBC (AI/ML Track) · CWIT Cyber Scholar · Break Through Tech AI Fe
 I'm exploring the intersection of **Software Engineering and AI/ML**. I like building systems that don't just model data well, but are also engineered to actually ship and scale. I'm actively growing my technical and leadership skills as a **Break Through Tech AI Fellow**, and I'm open to Software Engineering, AI/ML, and Data Science/Analysis roles for my next internship or full-time opportunity.
  
 Outside the classroom, I lead as a **Resident Assistant** at UMBC, supporting a 60+ student community, a role that's taught me as much about communication and reliability as any codebase has.
+
+## 🚀 AI Fall Studio Project - Microsoft 3B: GitHub Repo Trust Signals
+Collaborating with Microsoft to predict whether GitHub repositories are strong or poor based on their trust signals such as Forks, Contributors, Organizations, and age. I am tasked with computing a logistic regression model to be trained on over 240+ GitHub repos and the model performed 94% precision, 94% recall, and 94% F1-Score at correctly identifying good and bad repos. I conducted train test split (80/20) and the model performed well at identifying good and bad repos.
+
+🔗 [Full project & README]([https://github.com/Vidalb1/BreakThrough-Tech-Capstone-](https://github.com/Break-Through-Tech/Microsoft-3B-github-repo-trust-signals))
+
  
 ## 🚀 Featured Project: ML Capstone — Income Eligibility Classifier
  
@@ -37,10 +43,10 @@ Outside the classroom, I lead as a **Resident Assistant** at UMBC, supporting a 
 ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
  
 **ML Concepts:** Decision Trees · K-Nearest Neighbors · Logistic/Linear Regression · Neural Networks · AVL & Splay Trees
- 
+
 ## 📚 Currently Learning / Working On
  
-Deepening my machine learning fundamentals through the Break Through Tech AI Program's AI Studio phase, where I am  collaborating with Microsoft to predict whether GitHub repositories are strong or poor based on their trust signals such as Forks, Contributors, Organizations, and age. I am tasked with computing a logistic regression model to be trained on over 240+ GitHub repos and the model performed 94% precision, 94% recall, and 94% F1-Score at correctly identififying good and bad repos. Preparing to finalsize my findings and present to Microsoft advisors. Also sharpening my software engineering foundations (data structures, OOP, memory management) to bridge the gap between "a model that works" and "a system that ships."
+Deepening my machine learning fundamentals through the Break Through Tech AI Program's AI Studio phase, where I am  collaborating with Microsoft to predict GitHub trust signals. Preparing to finalsize my findings and present to Microsoft advisors. Also sharpening my software engineering foundations (data structures, OOP, memory management) to bridge the gap between "a model that works" and "a system that ships."
  
 ## 📌 Other Projects
  
